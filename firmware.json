@@ -12,6 +12,12 @@
     "imageType": "mcuboot"
   },
   {
+    "fileName": "CC2640R2/8_40_00_57_eng/lib_core_FlashOnly_oad.bin",
+    "version": "8.40.00.57_1.0.0+0",
+    "hwType": "CC2640R2",
+    "imageType": "mcuboot"
+  },
+  {
     "fileName": "LP_EM_CC2340R5/8_40_00_57_eng/ble5_basic_ble_oad_dual_image_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
     "version": "8.40.00.57_2.0.0+0",
     "hwType": "LP_EM_CC2340R5",
