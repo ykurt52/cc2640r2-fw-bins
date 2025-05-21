@@ -6,7 +6,7 @@
     "imageType": "mcuboot"
   },
   {
-    "fileName": "CC2640R2/Tempstar/fw_app_FlashROM_oad.bin",
+    "fileName": "CC2640R2/8_40_00_57_eng/fw_app_FlashROM_oad.bin",
     "version": "8.40.00.57_1.0.0+0",
     "hwType": "CC2640R2",
     "imageType": "mcuboot"
