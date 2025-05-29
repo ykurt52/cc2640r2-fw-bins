@@ -6,11 +6,24 @@
     "imageType": "mcuboot"
   },
   {
-    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_FlashROM_unsecure_oad.bin",
+    "fileName": "CC2640R2/5_30_00_01_eng/fw_bim_oad.bin",
     "version": "5.30.00.01_1.0.0+0",
     "hwType": "CC2640R2",
-    "imageType": "mcuboot"
+    "imageType": "bim"
   },
+  {
+    "fileName": "CC2640R2/5_30_00_01_eng/fw_oadimg_oad.bin",
+    "version": "5.30.00.01_1.0.0+0",
+    "hwType": "CC2640R2",
+    "imageType": "oadimg"
+  },
+  {
+    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_oad.bin",
+    "version": "5.30.00.01_1.0.0+0",
+    "hwType": "CC2640R2",
+    "imageType": "oad"
+  },
+
   {
     "fileName": "CC2640R2/5_30_00_01_eng/lib_stack_FlashROM_unsecure_oad.bin",
     "version": "5.30.00.01_1.0.0+0",
