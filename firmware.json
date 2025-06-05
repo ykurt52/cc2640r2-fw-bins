@@ -12,6 +12,12 @@
     "imageType": "bim"
   },
   {
+    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_V01.bin",
+    "version": "5.30.00.01_1.0.0+0",
+    "hwType": "CC2640R2",
+    "imageType": "bim"
+  },
+  {
     "fileName": "CC2640R2/5_30_00_01_eng/fw_app_FlashROM_unsecure_oad.bin",
     "version": "5.30.00.01_1.0.0+0",
     "hwType": "CC2640R2",
