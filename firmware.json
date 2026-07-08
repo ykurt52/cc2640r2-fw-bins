@@ -6,31 +6,25 @@
     "imageType": "mcuboot"
   },
   {
-    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_V01_Test.bin",
+    "fileName": "CC2640R2/5_30_00_01_eng/tempstar240_fw_v0_1_1.bin",
     "version": "5.30.00.01_1.0.0+0",
     "hwType": "CC2640R2",
     "imageType": "bim"
   },
   {
-    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_V01_Test_TS240.bin",
+    "fileName": "CC2640R2/5_30_00_01_eng/tempstar240_fw_v0_1_2.bin",
     "version": "5.30.00.01_1.0.0+0",
     "hwType": "CC2640R2",
     "imageType": "bim"
   },
   {
-    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_V01.bin",
+    "fileName": "CC2640R2/5_30_00_01_eng/tempstar240_fw_v0_1_3.bin",
     "version": "5.30.00.01_1.0.0+0",
     "hwType": "CC2640R2",
     "imageType": "bim"
   },
   {
-    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_V0_1_2.bin",
-    "version": "5.30.00.01_1.0.0+0",
-    "hwType": "CC2640R2",
-    "imageType": "bim"
-  },
-  {
-    "fileName": "CC2640R2/5_30_00_01_eng/fw_app_V0_1_3.bin",
+    "fileName": "CC2640R2/5_30_00_01_eng/tempstar240_oadtest_fw_v_0_aa.bin",
     "version": "5.30.00.01_1.0.0+0",
     "hwType": "CC2640R2",
     "imageType": "bim"
